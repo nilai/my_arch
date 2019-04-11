@@ -1,1 +1,1 @@
-include ':app', ':dataflow'
+include ':app', ':dataflow', ':githubdemo'
